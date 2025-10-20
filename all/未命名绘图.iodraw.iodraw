@@ -74,10 +74,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--23" value="Inspect picks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--26" value="Extract Mics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
