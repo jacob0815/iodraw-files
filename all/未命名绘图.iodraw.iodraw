@@ -279,13 +279,6 @@
         <mxCell id="NrYUzNbb8ctpQAhtSgO--104" value="8.47A" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NrYUzNbb8ctpQAhtSgO--99">
           <mxGeometry y="160" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--71" target="NrYUzNbb8ctpQAhtSgO--64">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="490" as="sourcePoint" />
-            <mxPoint x="750" y="280" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--64" value="Select 2D" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="590" width="140" height="60" as="geometry">
             <mxRectangle x="500" y="590" width="100" height="30" as="alternateBounds" />
@@ -301,15 +294,6 @@
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--69" value="1559929 P. selected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NrYUzNbb8ctpQAhtSgO--68">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--68" target="NrYUzNbb8ctpQAhtSgO--71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="750" as="sourcePoint" />
-            <mxPoint x="520" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="1565" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--71" value="Inspect picks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="780" width="120" height="60" as="geometry" />
