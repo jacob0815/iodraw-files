@@ -151,7 +151,7 @@
         <mxCell id="NrYUzNbb8ctpQAhtSgO--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--61" target="NrYUzNbb8ctpQAhtSgO--64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--61" target="NrYUzNbb8ctpQAhtSgO--65">
+        <mxCell id="NrYUzNbb8ctpQAhtSgO--111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--61" target="NrYUzNbb8ctpQAhtSgO--64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--61" value="2D class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -293,13 +293,6 @@
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--65" value="102827 P. selected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NrYUzNbb8ctpQAhtSgO--64">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--53" target="NrYUzNbb8ctpQAhtSgO--68">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="490" as="sourcePoint" />
-            <mxPoint x="520" y="650" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--68" value="Template picker" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="690" width="140" height="60" as="geometry">
