@@ -34,8 +34,8 @@
         <mxCell id="NrYUzNbb8ctpQAhtSgO--9" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NrYUzNbb8ctpQAhtSgO--6">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--11" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="210" y="250" width="60" height="30" as="geometry">
+        <mxCell id="NrYUzNbb8ctpQAhtSgO--11" value="Patch CTF" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="245" y="270" width="60" height="30" as="geometry">
             <mxRectangle x="210" y="250" width="140" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
