@@ -91,10 +91,14 @@
           <mxGeometry x="230" y="620" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--38" target="NrYUzNbb8ctpQAhtSgO--45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--38" value="2D class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="115" width="140" height="200" as="geometry">
+          <mxGeometry x="450" y="20" width="140" height="200" as="geometry">
             <mxRectangle x="500" y="590" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
