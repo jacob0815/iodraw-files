@@ -22,7 +22,7 @@
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--2" value="&lt;span style=&quot;color: rgb(31, 41, 55); font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Patch Motion Correction&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="180" y="210" width="200" height="30" as="geometry">
-            <mxRectangle x="210" y="210" width="140" height="30" as="alternateBounds" />
+            <mxRectangle x="180" y="210" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--6" target="NrYUzNbb8ctpQAhtSgO--18">
