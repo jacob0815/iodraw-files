@@ -169,7 +169,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrYUzNbb8ctpQAhtSgO--71" target="NrYUzNbb8ctpQAhtSgO--72">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="810" />
+              <mxPoint x="820" y="105" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NrYUzNbb8ctpQAhtSgO--72" value="Extract Mics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="35" width="140" height="140" as="geometry">
