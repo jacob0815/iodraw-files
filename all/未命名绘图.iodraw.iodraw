@@ -18,8 +18,11 @@
         </mxCell>
         <mxCell id="21ea969265ad0168-36" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;" parent="1" source="21ea969265ad0168-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="266" as="targetPoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NrYUzNbb8ctpQAhtSgO--1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
