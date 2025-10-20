@@ -239,9 +239,9 @@
             <mxRectangle x="500" y="590" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NrYUzNbb8ctpQAhtSgO--89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NrYUzNbb8ctpQAhtSgO--89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NrYUzNbb8ctpQAhtSgO--93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="1049.8899999999999" as="sourcePoint" />
+            <mxPoint x="630" y="1123" as="sourcePoint" />
             <mxPoint x="630" y="1129.8900000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
